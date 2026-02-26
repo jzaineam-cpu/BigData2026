@@ -1,0 +1,6 @@
+{
+  "name": "Airflow Lab",
+  "dockerComposeFile": "../Airflow/docker-compose.yaml",
+  "service": "airflow-webserver",
+  "workspaceFolder": "/opt/airflow"
+}
