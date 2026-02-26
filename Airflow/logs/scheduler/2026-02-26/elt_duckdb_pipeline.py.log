@@ -1421,3 +1421,66 @@ IndentationError: unexpected unindent
 [2026-02-26T09:58:08.244+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:58:08.244+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-02-26T09:58:08.274+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:58:08.274+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
 [2026-02-26T09:58:08.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.102 seconds
+[2026-02-26T09:58:38.419+0000] {processor.py:161} INFO - Started process (PID=2897) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:58:38.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T09:58:38.423+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:58:38.423+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:58:38.437+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:58:38.470+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:58:38.470+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T09:58:38.506+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:58:38.505+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T09:58:38.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.138 seconds
+[2026-02-26T09:59:08.920+0000] {processor.py:161} INFO - Started process (PID=2956) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:59:08.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T09:59:08.931+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:59:08.931+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:59:08.976+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:59:09.086+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:59:09.086+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T09:59:09.175+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:59:09.174+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T09:59:09.238+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.336 seconds
+[2026-02-26T09:59:39.852+0000] {processor.py:161} INFO - Started process (PID=3013) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:59:39.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T09:59:39.855+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:59:39.855+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:59:39.867+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T09:59:39.893+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:59:39.893+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T09:59:39.924+0000] {logging_mixin.py:188} INFO - [2026-02-26T09:59:39.923+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T09:59:39.947+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.101 seconds
+[2026-02-26T10:00:10.121+0000] {processor.py:161} INFO - Started process (PID=3072) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:00:10.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T10:00:10.132+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:00:10.131+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:00:10.159+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:00:10.212+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:00:10.211+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T10:00:10.277+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:00:10.276+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T10:00:10.336+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.255 seconds
+[2026-02-26T10:00:40.705+0000] {processor.py:161} INFO - Started process (PID=3131) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:00:40.706+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T10:00:40.709+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:00:40.708+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:00:40.724+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:00:40.749+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:00:40.749+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T10:00:40.788+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:00:40.788+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T10:00:40.835+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.139 seconds
+[2026-02-26T10:01:10.888+0000] {processor.py:161} INFO - Started process (PID=3190) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:01:10.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T10:01:10.893+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:01:10.892+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:01:10.908+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:01:10.932+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:01:10.932+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T10:01:10.963+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:01:10.962+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T10:01:10.982+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.100 seconds
+[2026-02-26T10:01:41.742+0000] {processor.py:161} INFO - Started process (PID=3248) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:01:41.751+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T10:01:41.757+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:01:41.756+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:01:41.794+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:01:41.906+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:01:41.906+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T10:01:42.066+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:01:42.066+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T10:01:42.171+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.443 seconds
+[2026-02-26T10:02:12.362+0000] {processor.py:161} INFO - Started process (PID=3312) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:02:12.363+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T10:02:12.365+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:02:12.365+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:02:12.382+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:02:12.411+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:02:12.410+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T10:02:12.442+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:02:12.442+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T10:02:12.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.108 seconds
+[2026-02-26T10:02:42.556+0000] {processor.py:161} INFO - Started process (PID=3371) to work on /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:02:42.558+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/elt_duckdb_pipeline.py for tasks to queue
+[2026-02-26T10:02:42.564+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:02:42.563+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:02:42.584+0000] {processor.py:840} INFO - DAG(s) 'elt_duckdb_pipeline' retrieved from /opt/airflow/dags/elt_duckdb_pipeline.py
+[2026-02-26T10:02:42.626+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:02:42.626+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-26T10:02:42.674+0000] {logging_mixin.py:188} INFO - [2026-02-26T10:02:42.674+0000] {dag.py:3954} INFO - Setting next_dagrun for elt_duckdb_pipeline to 2026-02-26 00:00:00+00:00, run_after=2026-02-27 00:00:00+00:00
+[2026-02-26T10:02:42.705+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/elt_duckdb_pipeline.py took 0.161 seconds
